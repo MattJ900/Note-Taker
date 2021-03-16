@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/MattJ900/Note-Taker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
   },
   "devDependencies": {
     "nodemod": "^2.7.2",
